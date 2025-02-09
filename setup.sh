@@ -1,5 +1,7 @@
 !#/bin/bash
 
+sudo apt install net-tools
+
 # This script is Debian systems (linux)
 # Setup caddy
 sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https curl
