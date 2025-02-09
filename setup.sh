@@ -1,3 +1,4 @@
+!#/bin/bash
 
 # This script is Debian systems (linux)
 # Setup caddy
